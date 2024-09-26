@@ -7,3 +7,4 @@
 ## Os jogos que eu te amasso são:
 
 ![FIFA](https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white)
+![COUNTER-STRIKE](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
