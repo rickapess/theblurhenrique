@@ -11,6 +11,6 @@ Cursando no SENAI desde março de 2024.
 ## IDE's:
 ![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-![Vilela's GitHub stats](https://github-readme-stats.vercel.app/api?username=theblurhenrique&show_icons=true&theme=transparent)
+![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=theblurhenrique&show_icons=true&theme=transparent)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0023F5&height=120&section=footer"/>
