@@ -9,6 +9,6 @@ Cursando no SENAI desde março de 2024.
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=theblurhenrique&show_icons=true&theme=transparent)
+![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=theblurhenrique&show_icons=true&theme=white)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
