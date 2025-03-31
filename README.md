@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffffsize=35&left=true&vCenter=true&width=1000&lines=Eae!+Meu+nome+é+Henrique!+👋;Seja+bem-vindo+ao+meu+perfil!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&left=true&vCenter=true&width=1000&font=Press+Start+2P&lines=Eae!+meu+nome+é+Henrique!+𒉭;Seja+bem-vindo+ao+meu+perfil+do+Github!)
 
 Cursando no SENAI desde março de 2024.
 ## SENAI CTTI Technician
