@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&left=true&vCenter=true&width=1000&font=Press+Start+2P&lines=Eae!+meu+nome+é+Henrique!+𒉭;Seja+bem-vindo+ao+meu+perfil+do+Github!)
 
-Cursando no SENAI desde março de 2024.
+Studying at SENAI since March 2024.
 ## SENAI CTTI Technician
 ## Technologies and IDE's:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
