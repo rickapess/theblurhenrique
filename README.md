@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&left=true&vCenter=true&width=1000&font=Press+Start+2P&lines=Eae!+meu+nome+é+Henrique!+𒉭;Seja+bem-vindo+ao+meu+perfil+do+Github!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&left=true&vCenter=true&width=1000&font=Press+Start+2P&lines=Hey+bro!+My+name+is+Henrique!+𒉭;Welcome+to+my+Github+profile!)
 
 Studying at SENAI since March 2024.
 ## SENAI CTTI Technician
