@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
 
-[![Typing SVG]([https://readme-typing-svg.herokuapp.com?font=Tektur&weight=600&size=24&duration=2000&color=d1d7e0&multiline=true&width=670&height=120&separator=%3C&lines=Roses+are+red%2C%3Cviolets+are+blue%2C%3CI+really+wanted+to+show+all+my+love+to+you!+;\))](https://git.io/typing-svg](https://readme-typing-svg.herokuapp.com?font=Tektur&weight=600&size=24&duration=2000&color=d1d7e0&multiline=true&width=670&height=120&separator=%3C&lines=Faça+dinheiro%2C+mantenha-se+bonito.
-)
+[![Typing SVG]([(https://readme-typing-svg.herokuapp.com?font=Tektur&weight=600&size=24&duration=2000&color=d1d7e0&multiline=true&width=670&height=120&separator=%3C&lines=Faça+dinheiro%2C+mantenha-se+bonito.
+)})
 
 ## About
 
