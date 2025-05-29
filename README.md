@@ -16,4 +16,4 @@
 
 ![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickapess&show_icons=true&theme=white)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+<img width=100% src="https://64.media.tumblr.com/7a5ed2f46c5c14dcdb9193ff160585d2/209463913dc322ae-a7/s1280x1920/36f11b83ca8073d10ec14d560b8f88e9d92260ed.jpg"/>
